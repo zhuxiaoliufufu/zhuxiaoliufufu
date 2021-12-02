@@ -1,1 +1,11 @@
-- 👋 Hi, I’m @zhuxiaoliufufu
+大家好，我们是朱小刘夫妇，致力出一套零基础学编程系列视频。
+
+感谢观看我们的零基础学Android编程课程系列，期望和大家一起交流学习，一起体验编程的乐趣。
+
+# 课程及观看地址
+
+课程 | 知乎观看地址 | B站观看地址
+---|---|---
+带媳妇学编程第一节课：注册Github| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4?spm_id_from=333.999.0.0)
+
+
