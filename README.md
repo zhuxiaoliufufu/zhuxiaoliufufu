@@ -6,6 +6,7 @@
 
 # 课程及观看地址
 
+## Git 系列
 课程 | 知乎观看地址 | B站观看地址
 ---|---|---
 陪媳妇学编程第一节课：注册Github| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4?spm_id_from=333.999.0.0)
@@ -22,4 +23,15 @@
 陪零基础媳妇学编程第十节课：Git 入门命令总结|[知乎](https://www.zhihu.com/zvideo/1454362474036682752)|[B站](https://www.bilibili.com/video/BV1NP4y1G7yQ)
 陪零基础媳妇学编程第十一节课：Git 结课|[知乎](https://www.zhihu.com/zvideo/1454589031531646977)|[B站](https://www.bilibili.com/video/BV1Fb4y1q7ro)
 
-
+## 零基础学Android 系列
+课程 | 知乎观看地址 | B站观看地址 | 文章地址
+---|---|---|---
+序| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+安装Android Studio| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+Android SDK 下载安装| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+创建首个项目| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+介绍AS的菜单栏| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+模拟器的安装及使用| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+项目运行到模拟器上| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+Gradle的简单介绍| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
+第一章总结| [知乎](https://www.zhihu.com/zvideo/1449648600648818688) | [B站](https://www.bilibili.com/video/BV14q4y1z7X4)| [文章链接](https://www.zhihu.com/people/aserbao/posts)
